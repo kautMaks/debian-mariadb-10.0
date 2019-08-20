@@ -20,8 +20,8 @@ Build-Depends: bison,
                procps | hurd,
                psmisc,
                zlib1g-dev (>= 1:1.1.3-5),
-               ${CMAKE_DEP}libaio-dev,
-               ${LIBREADLINE_DEV}
+               cmake (>= 2.7), libaio-dev,
+               libreadline-gplv2-dev
 Standards-Version: 3.8.3
 Homepage: http://mariadb.org/
 Vcs-Browser: https://github.com/MariaDB/server/

@@ -1,3 +1,9 @@
+mariadb-10.0 (10.0.39+maria-1~stretch) stretch; urgency=medium
+
+  * MariaDB 10.0 for Debian Stretch.
+
+ -- kaut <maksimkaut92@gmail.com>  Tue, 20 Aug 2019 12:48:10 +0300
+
 mariadb-10.0 (10.0.0) unstable; urgency=low
 
   * Initial release.
