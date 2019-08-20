@@ -2,6 +2,8 @@
 
 This repository provides mariadb-10.0 debianized source package for Debian Stretch.
 
+Source repository - https://github.com/MariaDB/server/tree/10.0
+
 ## Install build requirements:
 
 ```sh
